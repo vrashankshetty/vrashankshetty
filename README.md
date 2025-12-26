@@ -18,20 +18,6 @@
 </p>
 
 
-### 🧮 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrashankshetty&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrashankshetty&theme=radical&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories" alt="Trophies" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
