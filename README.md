@@ -1,4 +1,4 @@
-<h1 align="center">Hi — I’m Vrashank S Shetty</h1>
+<h1 align="center">Hi — I'm Vrashank S Shetty</h1>
 <h3 align="center">Developer | Engineer</h3>
 
 ---
@@ -7,7 +7,6 @@
 - 🔭 Currently working on **AI & full‑stack projects**.
 - 🌱 Exploring **Machine Learning & Generative AI**.
 - 💬 Ask me about **React, Next.js, Node.js, Express, Python, databases, cloud, or AI**.
-- 🧠 Interests: **AI development, networking, systems & cloud engineering**.
 - 📫 Reach me: **vrashankshetty.s@gmail.com**
 
 ---
